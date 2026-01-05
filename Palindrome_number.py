@@ -7,4 +7,4 @@ while n>0:
 print("Reversed number is:", reverse)
 
 #another logic for same
-
+print(int(str(num[::-1])))
